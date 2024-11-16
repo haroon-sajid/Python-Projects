@@ -1,22 +1,19 @@
 # Python Projects
 
-Welcome to my Python Projects repository! This collection features five different projects built using Python and the Tkinter library. These projects are designed to display various functionalities and serve as great learning tools for anyone interested in Python GUI development.
+Welcome to my Python Projects repository! This collection features four different projects built using Python and the Tkinter library. These projects are designed to display various functionalities and serve as great learning tools for anyone interested in Python GUI development.
 
 ## Projects
 
-### 1. Car Racer Game
-A fun car racing game where the player navigates a car through obstacles. This project demonstrates how to create a game using Tkinter, including handling user input and updating the game state.
-
-### 2. Data Entry Form
+### 1. Data Entry Form
 A simple data entry form to collect user information such as name, email, phone number, and address. This project showcases the basic usage of Tkinter widgets to create a form layout and handle user input.
 
-### 3. Language Translator
+### 2. Language Translator
 A basic language translator application that translates text from one language to another using an external translation API. This project demonstrates how to integrate web APIs with a Tkinter interface.
 
-### 4. Python IDLE
+### 3. Python IDLE
 A simple Integrated Development Environment (IDLE) for writing and executing Python code. This project shows how to create a basic text editor and execute code using Tkinter.
 
-### 5. Screen Recorder
+### 4. Screen Recorder
 A screen recording application that captures the screen and saves it as a video file. This project highlights the use of the Tkinter library for creating a user interface and integrating it with screen recording functionality.
 
 ## Installation
